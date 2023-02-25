@@ -1,0 +1,47 @@
+
+
+
+.bootstrap{
+  
+    padding-top: 50px;
+    padding-left: 320px;
+}
+ .image img{
+    width: 750px;
+    max-height: 300px;
+}
+.content h2{
+    padding-top: 20px;
+    margin-left: 10px;
+ 
+}
+
+.cards{
+    display: flex;
+    justify-content: center;
+    
+}
+.card{
+    margin: 10px;
+}
+
+form{
+    padding-left: 330px;
+}
+
+form input{
+    width: 750px;
+}
+.message input{
+    height: 50px;
+}
+
+form .btn-primary{
+    
+    margin-top: 10px;
+}
+table{
+    width: 400px;
+
+}
+
